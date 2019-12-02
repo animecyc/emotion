@@ -1,5 +1,11 @@
 # babel-plugin-emotion
 
+## 11.0.0-next.8
+
+### Minor Changes
+
+- [`c672175b`](https://github.com/emotion-js/emotion/commit/c672175b52e86de43b3d4092a8fe34b2023ceae8) [#1130](https://github.com/emotion-js/emotion/pull/1130) Thanks [@jtmthf](https://github.com/jtmthf)! - Adjust how arrays passed to css prop are transformed so function elements can be resolved at runtime.
+
 ## 11.0.0-next.6
 
 ### Major Changes
